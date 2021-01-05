@@ -1,3 +1,4 @@
+# the faulty calculator
 while True:
     operater = input("CHOOSE YOUR OPERATER addition , multiplication , divison : ")
     num1 = int(input("ENTER YOUR 1ST NUMBER: "))
